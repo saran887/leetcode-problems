@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/saran887/leetcode-problems/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/saran887/leetcode-problems/tree/master/0061-rotate-list) |
 ## Two Pointers
 |  |
@@ -76,4 +77,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2101-last-day-where-you-can-still-cross](https://github.com/saran887/leetcode-problems/tree/master/2101-last-day-where-you-can-still-cross) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/saran887/leetcode-problems/tree/master/0023-merge-k-sorted-lists) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/saran887/leetcode-problems/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/saran887/leetcode-problems/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
