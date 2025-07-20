@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/saran887/leetcode-problems/tree/master/0069-sqrtx) |
+| [2101-last-day-where-you-can-still-cross](https://github.com/saran887/leetcode-problems/tree/master/2101-last-day-where-you-can-still-cross) |
 ## Array
 |  |
 | ------- |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/saran887/leetcode-problems/tree/master/0079-word-search) |
 | [0217-contains-duplicate](https://github.com/saran887/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [2058-concatenation-of-array](https://github.com/saran887/leetcode-problems/tree/master/2058-concatenation-of-array) |
+| [2101-last-day-where-you-can-still-cross](https://github.com/saran887/leetcode-problems/tree/master/2101-last-day-where-you-can-still-cross) |
 ## Simulation
 |  |
 | ------- |
@@ -48,10 +50,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/saran887/leetcode-problems/tree/master/0079-word-search) |
+| [2101-last-day-where-you-can-still-cross](https://github.com/saran887/leetcode-problems/tree/master/2101-last-day-where-you-can-still-cross) |
 ## Matrix
 |  |
 | ------- |
 | [0079-word-search](https://github.com/saran887/leetcode-problems/tree/master/0079-word-search) |
+| [2101-last-day-where-you-can-still-cross](https://github.com/saran887/leetcode-problems/tree/master/2101-last-day-where-you-can-still-cross) |
 ## Linked List
 |  |
 | ------- |
@@ -60,4 +64,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/saran887/leetcode-problems/tree/master/0061-rotate-list) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2101-last-day-where-you-can-still-cross](https://github.com/saran887/leetcode-problems/tree/master/2101-last-day-where-you-can-still-cross) |
+## Union Find
+|  |
+| ------- |
+| [2101-last-day-where-you-can-still-cross](https://github.com/saran887/leetcode-problems/tree/master/2101-last-day-where-you-can-still-cross) |
 <!---LeetCode Topics End-->
