@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/saran887/leetcode-problems/tree/master/0001-two-sum) |
+| [0079-word-search](https://github.com/saran887/leetcode-problems/tree/master/0079-word-search) |
 | [0217-contains-duplicate](https://github.com/saran887/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [2058-concatenation-of-array](https://github.com/saran887/leetcode-problems/tree/master/2058-concatenation-of-array) |
 ## Simulation
@@ -35,4 +36,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/saran887/leetcode-problems/tree/master/0058-length-of-last-word) |
+| [0079-word-search](https://github.com/saran887/leetcode-problems/tree/master/0079-word-search) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/saran887/leetcode-problems/tree/master/0079-word-search) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/saran887/leetcode-problems/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/saran887/leetcode-problems/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
