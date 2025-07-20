@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/saran887/leetcode-problems/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/saran887/leetcode-problems/tree/master/0037-sudoku-solver) |
 | [0068-text-justification](https://github.com/saran887/leetcode-problems/tree/master/0068-text-justification) |
 | [0079-word-search](https://github.com/saran887/leetcode-problems/tree/master/0079-word-search) |
 | [0217-contains-duplicate](https://github.com/saran887/leetcode-problems/tree/master/0217-contains-duplicate) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/saran887/leetcode-problems/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/saran887/leetcode-problems/tree/master/0037-sudoku-solver) |
 | [0217-contains-duplicate](https://github.com/saran887/leetcode-problems/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/saran887/leetcode-problems/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/saran887/leetcode-problems/tree/master/0079-word-search) |
 ## Depth-First Search
 |  |
@@ -54,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/saran887/leetcode-problems/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/saran887/leetcode-problems/tree/master/0079-word-search) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/saran887/leetcode-problems/tree/master/2101-last-day-where-you-can-still-cross) |
 ## Linked List
