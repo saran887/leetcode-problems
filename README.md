@@ -41,12 +41,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/saran887/leetcode-problems/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/saran887/leetcode-problems/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/saran887/leetcode-problems/tree/master/0068-text-justification) |
 | [0079-word-search](https://github.com/saran887/leetcode-problems/tree/master/0079-word-search) |
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/saran887/leetcode-problems/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/saran887/leetcode-problems/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/saran887/leetcode-problems/tree/master/0079-word-search) |
 ## Depth-First Search
@@ -89,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/saran887/leetcode-problems/tree/master/0023-merge-k-sorted-lists) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/saran887/leetcode-problems/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
